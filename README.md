@@ -7,7 +7,6 @@ Hello everything is fine? My name is Mateus, recently came the famous question<b
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mat_feri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferian-a22373206/) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
