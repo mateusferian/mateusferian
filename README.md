@@ -1,12 +1,11 @@
 
 # 💫 About Me:
-Hello everything is fine? My name is Mateus, recently came the famous question<br>that we all do when thinking about starting in the world of programming<br>backend or frontend? Of course, everyone has their favorite, in this case mine.<br>being back-and, a magnificent development area in which everything happens<br>what is behind an API
+Hello, is everything ok? My name is Mateus, a while ago the famous question came up<br>that we all ask when we think about starting in the world of programming<br>backend or frontend? Of course, everyone has their favorite, in this case mine.<br>This is in a magnificent development area where everything happens<br>Full Stack
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mat_feri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferian-a22373206/) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 ### Languages
