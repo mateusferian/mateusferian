@@ -15,6 +15,7 @@ Hello, is everything ok? My name is Mateus, a while ago the famous question came
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
+![Apex](https://img.shields.io/badge/Apex-%2300A1E0.svg?style=flat&logo=apex&logoColor=white) 
 
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white) 
@@ -28,7 +29,6 @@ Hello, is everything ok? My name is Mateus, a while ago the famous question came
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=sql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
-![Apex](https://img.shields.io/badge/Apex-%2300A1E0.svg?style=flat&logo=apex&logoColor=white) 
 ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=flat&logo=salesforce&logoColor=white) 
 
 ### Tools
